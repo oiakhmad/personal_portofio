@@ -739,7 +739,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
+  /* color: #00aa5a; */
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
